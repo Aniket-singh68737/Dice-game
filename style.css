@@ -1,0 +1,54 @@
+body{
+    background-color: #232931;
+}
+h1{
+    color: green;
+    font-family: 'Lobster',cursive;
+    font-size: 7rem;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    text-shadow: 5px 0 #232931;
+}
+
+h3{
+    color: aliceblue;
+    display: inline-block;
+    margin: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.container{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    margin: 30px;
+    letter-spacing: 1.3px;
+}
+
+.invisible{
+    visibility: hidden;
+}
+
+img{
+    height: 200px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.divOfRule{
+    text-align: center;
+    color: aliceblue;
+    padding-bottom: 30px;
+}
+
+h2{
+    color: green;
+    font-family: 'Lobster',cursive;
+}
+
+footer{
+    color: aliceblue;
+}
